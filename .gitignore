@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.log
+optimize_images.ps1
+assets/hero-bg/
+assets/patricia-bio.jpg
